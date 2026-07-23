@@ -1,23 +1,23 @@
 # Bean
 
-Bean is a lightweight local file sharing app for sending files between devices on the same network. It can also create a secure temporary public link through ngrok when remote access is needed.
+Bean é um aplicativo leve de compartilhamento de arquivos em rede local, desenvolvido para enviar arquivos entre dispositivos conectados à mesma rede. Quando é necessário acesso remoto, ele também pode criar um link público temporário e seguro utilizando o ngrok.
 
-![Bean interface](bean_design.png)
+![Interface do Bean](bean_design.png)
 
-## First release
+## Primeira versão
 
-Download `Bean.exe` from the [latest release](https://github.com/vxncius-dev/Bean/releases/latest), open it, and use the address or QR code shown by the app to connect from another device.
+Baixe o `Bean.exe` na [última versão](https://github.com/vxncius-dev/Bean/releases/latest), abra o aplicativo e utilize o endereço ou o QR Code exibidos para se conectar a partir de outro dispositivo.
 
-The app stores shared files locally on the host computer. The ngrok authtoken is stored locally in encrypted form using Windows DPAPI.
+O aplicativo armazena os arquivos compartilhados localmente no computador hospedeiro. O authtoken do ngrok também é armazenado localmente, de forma criptografada, utilizando o Windows DPAPI.
 
-## Remote access
+## Acesso remoto
 
-Open Settings, paste your ngrok authtoken, and start the tunnel. Bean updates the displayed address and QR code to the generated HTTPS link. Stopping the tunnel returns the app to the local network address.
+Abra as Configurações, cole seu authtoken do ngrok e inicie o túnel. O Bean atualizará o endereço e o QR Code exibidos para o link HTTPS gerado. Ao encerrar o túnel, o aplicativo retorna automaticamente ao endereço da rede local.
 
 ## Status
 
-The Android APK is currently in development and will be available soon.
+O APK para Android está em desenvolvimento e será disponibilizado em breve.
 
-## License
+## Licença
 
-This repository contains the compiled Windows release and product assets only. Source code is not included in this repository.
+O Bean é um software proprietário. Consulte [LICENSE.md](LICENSE.md) para os termos da licença e [TERMS.md](TERMS.md) para os Termos de Uso.
