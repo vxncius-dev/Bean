@@ -20,4 +20,4 @@ O APK para Android está em desenvolvimento e será disponibilizado em breve.
 
 ## Licença
 
-O Bean é um software proprietário. Consulte [LICENSE.md](LICENSE.md) para os termos da licença e [TERMS.md](TERMS.md) para os Termos de Uso.
+O Bean é um software proprietário. Consulte [LICENSE.md](LICENSE) para os termos da licença e [TERMS.md](TERMS) para os Termos de Uso.
