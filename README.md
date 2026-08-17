@@ -2,7 +2,7 @@
 
 Bean é um aplicativo leve de compartilhamento de arquivos em rede local, desenvolvido para enviar arquivos entre dispositivos conectados à mesma rede. Quando é necessário acesso remoto, ele também pode criar um link público temporário e seguro utilizando o ngrok.
 
-![Interface do Bean](bean_design.png)
+![Interface do Bean](https://github.com/user-attachments/assets/da013b36-526d-416f-ba67-75a74f8ec10d)
 
 ## Primeira versão
 
