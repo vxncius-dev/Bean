@@ -4,9 +4,11 @@ Bean é um aplicativo leve de compartilhamento de arquivos em rede local, desenv
 
 ![Interface do Bean](https://github.com/user-attachments/assets/da013b36-526d-416f-ba67-75a74f8ec10d)
 
-## Primeira versão
+## Instalação
 
-Baixe o `Bean.exe` na [última versão](https://github.com/vxncius-dev/Bean/releases/latest), abra o aplicativo e utilize o endereço ou o QR Code exibidos para se conectar a partir de outro dispositivo.
+Baixe o instalador **`Bean-Setup-1.0.2.exe`** na [versão v1.0.2](https://github.com/vxncius-dev/Bean/releases/tag/v1.0.2) e execute-o para instalar o Bean. O instalador também está disponível no repositório no caminho `Releases/Bean 1.0.2/Bean-Setup-1.0.2.exe`.
+
+Após instalar, abra o aplicativo e utilize o endereço ou o QR Code exibidos para se conectar a partir de outro dispositivo.
 
 O aplicativo armazena os arquivos compartilhados localmente no computador hospedeiro. O authtoken do ngrok também é armazenado localmente, de forma criptografada, utilizando o Windows DPAPI.
 
